@@ -21,6 +21,6 @@ java sel2in.Sleep 3500 500
 ``` 
 Will sleep for 3.5 seconds and 500 nano seconds (accuracy up to your OS).
 
-_[sel2in](http://sel2in.com "sel2in's Homepage")
+*[sel2in](http://sel2in.com "sel2in's Homepage")*
 
 ![sel2in logo](http://sel2in.com/imgs/ThemeProg.jpg)
